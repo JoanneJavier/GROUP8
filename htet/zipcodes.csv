@@ -1,0 +1,299 @@
+Zipcode,State,County,City,Time Zone,Distance
+94103,CA,San Francisco,San Francisco,8,0
+94119,CA,San Francisco,San Francisco,8,1
+94120,CA,San Francisco,San Francisco,8,1
+94125,CA,San Francisco,San Francisco,8,1
+94126,CA,San Francisco,San Francisco,8,1
+94137,CA,San Francisco,San Francisco,8,1
+94139,CA,San Francisco,San Francisco,8,1
+94140,CA,San Francisco,San Francisco,8,1
+94141,CA,San Francisco,San Francisco,8,1
+94142,CA,San Francisco,San Francisco,8,1
+94143,CA,San Francisco,San Francisco,8,1
+94144,CA,San Francisco,San Francisco,8,1
+94145,CA,San Francisco,San Francisco,8,1
+94146,CA,San Francisco,San Francisco,8,1
+94147,CA,San Francisco,San Francisco,8,1
+94151,CA,San Francisco,San Francisco,8,1
+94159,CA,San Francisco,San Francisco,8,1
+94160,CA,San Francisco,San Francisco,8,1
+94161,CA,San Francisco,San Francisco,8,1
+94163,CA,San Francisco,San Francisco,8,1
+94164,CA,San Francisco,San Francisco,8,1
+94172,CA,San Francisco,San Francisco,8,1
+94177,CA,San Francisco,San Francisco,8,1
+94188,CA,San Francisco,San Francisco,8,1
+94102,CA,San Francisco,San Francisco,8,1
+94108,CA,San Francisco,San Francisco,8,2
+94107,CA,San Francisco,San Francisco,8,2
+94104,CA,San Francisco,San Francisco,8,2
+94158,CA,San Francisco,San Francisco,8,2
+94105,CA,San Francisco,San Francisco,8,2
+94109,CA,San Francisco,San Francisco,8,2
+94115,CA,San Francisco,San Francisco,8,2
+94117,CA,San Francisco,San Francisco,8,3
+94111,CA,San Francisco,San Francisco,8,3
+94110,CA,San Francisco,San Francisco,8,3
+94114,CA,San Francisco,San Francisco,8,3
+94123,CA,San Francisco,San Francisco,8,4
+94133,CA,San Francisco,San Francisco,8,4
+94131,CA,San Francisco,San Francisco,8,4
+94118,CA,San Francisco,San Francisco,8,4
+94129,CA,San Francisco,San Francisco,8,5
+94124,CA,San Francisco,San Francisco,8,6
+94134,CA,San Francisco,San Francisco,8,6
+94127,CA,San Francisco,San Francisco,8,6
+94130,CA,San Francisco,San Francisco,8,6
+94122,CA,San Francisco,San Francisco,8,6
+94112,CA,San Francisco,San Francisco,8,7
+94116,CA,San Francisco,San Francisco,8,7
+94121,CA,San Francisco,San Francisco,8,7
+94016,CA,San Mateo,Daly City,8,9
+94132,CA,San Francisco,San Francisco,8,9
+94005,CA,San Mateo,Brisbane,8,10
+94014,CA,San Mateo,Daly City,8,10
+94017,CA,San Mateo,Daly City,8,10
+94607,CA,Alameda,Oakland,8,11
+94966,CA,Marin,Sausalito,8,11
+94501,CA,Alameda,Alameda,8,12
+94015,CA,San Mateo,Daly City,8,12
+94608,CA,Alameda,Emeryville,8,13
+94662,CA,Alameda,Emeryville,8,13
+94604,CA,Alameda,Oakland,8,13
+94614,CA,Alameda,Oakland,8,13
+94620,CA,Alameda,Piedmont,8,13
+94622,CA,Alameda,Oakland,8,13
+94623,CA,Alameda,Oakland,8,13
+94624,CA,Alameda,Oakland,8,13
+94649,CA,Alameda,Oakland,8,13
+94659,CA,Alameda,Oakland,8,13
+94660,CA,Alameda,Oakland,8,13
+94661,CA,Alameda,Oakland,8,13
+94666,CA,Alameda,Oakland,8,13
+94920,CA,Marin,Belvedere Tiburon,8,13
+94965,CA,Marin,Sausalito,8,13
+94617,CA,Alameda,Oakland,8,13
+94080,CA,San Mateo,South San Francisco,8,13
+94612,CA,Alameda,Oakland,8,13
+94083,CA,San Mateo,South San Francisco,8,13
+94615,CA,Alameda,Oakland,8,13
+94710,CA,Alameda,Berkeley,8,14
+94609,CA,Alameda,Oakland,8,15
+94702,CA,Alameda,Berkeley,8,15
+94606,CA,Alameda,Oakland,8,15
+94502,CA,Alameda,Alameda,8,16
+94703,CA,Alameda,Berkeley,8,16
+94610,CA,Alameda,Oakland,8,16
+94701,CA,Alameda,Berkeley,8,16
+94712,CA,Alameda,Berkeley,8,16
+94706,CA,Alameda,Albany,8,16
+94807,CA,Contra Costa,Richmond,8,17
+94618,CA,Alameda,Oakland,8,17
+94601,CA,Alameda,Oakland,8,17
+94128,CA,San Mateo,San Francisco,8,17
+94709,CA,Alameda,Berkeley,8,17
+94066,CA,San Mateo,San Bruno,8,18
+94804,CA,Contra Costa,Richmond,8,18
+94720,CA,Alameda,Berkeley,8,18
+94705,CA,Alameda,Berkeley,8,18
+94707,CA,Alameda,Berkeley,8,18
+94704,CA,Alameda,Berkeley,8,18
+94611,CA,Alameda,Oakland,8,18
+94602,CA,Alameda,Oakland,8,18
+94925,CA,Marin,Corte Madera,8,18
+94621,CA,Alameda,Oakland,8,19
+94942,CA,Marin,Mill Valley,8,19
+94941,CA,Marin,Mill Valley,8,19
+94802,CA,Contra Costa,Richmond,8,19
+94808,CA,Contra Costa,Richmond,8,19
+94850,CA,Contra Costa,Richmond,8,19
+94044,CA,San Mateo,Pacifica,8,19
+94708,CA,Alameda,Berkeley,8,19
+94974,CA,Marin,San Quentin,8,19
+94976,CA,Marin,Corte Madera,8,19
+94530,CA,Contra Costa,El Cerrito,8,20
+94030,CA,San Mateo,Millbrae,8,20
+94964,CA,Marin,San Quentin,8,20
+94613,CA,Alameda,Oakland,8,20
+94801,CA,Contra Costa,Richmond,8,21
+94805,CA,Contra Costa,Richmond,8,21
+94939,CA,Marin,Larkspur,8,21
+94977,CA,Marin,Larkspur,8,21
+94516,CA,Contra Costa,Canyon,8,21
+94603,CA,Alameda,Oakland,8,21
+94619,CA,Alameda,Oakland,8,21
+94011,CA,San Mateo,Burlingame,8,22
+94563,CA,Contra Costa,Orinda,8,22
+94904,CA,Marin,Greenbrae,8,22
+94605,CA,Alameda,Oakland,8,23
+94577,CA,Alameda,San Leandro,8,23
+94901,CA,Marin,San Rafael,8,23
+94010,CA,San Mateo,Burlingame,8,23
+94806,CA,Contra Costa,San Pablo,8,24
+94803,CA,Contra Costa,El Sobrante,8,24
+94401,CA,San Mateo,San Mateo,8,24
+94957,CA,Marin,Ross,8,24
+94912,CA,Marin,San Rafael,8,24
+94913,CA,Marin,San Rafael,8,24
+94914,CA,Marin,Kentfield,8,24
+94915,CA,Marin,San Rafael,8,24
+94579,CA,Alameda,San Leandro,8,25
+94820,CA,Contra Costa,El Sobrante,8,25
+94497,CA,San Mateo,San Mateo,8,25
+94979,CA,Marin,San Anselmo,8,26
+94570,CA,Contra Costa,Moraga,8,26
+94575,CA,Contra Costa,Moraga,8,26
+94578,CA,Alameda,San Leandro,8,26
+94546,CA,Alameda,Castro Valley,8,26
+94580,CA,Alameda,San Lorenzo,8,27
+94970,CA,Marin,Stinson Beach,8,27
+94564,CA,Contra Costa,Pinole,8,27
+94402,CA,San Mateo,San Mateo,8,27
+94037,CA,San Mateo,Montara,8,27
+94038,CA,San Mateo,Moss Beach,8,27
+94404,CA,San Mateo,San Mateo,8,28
+94403,CA,San Mateo,San Mateo,8,28
+94556,CA,Contra Costa,Moraga,8,28
+94978,CA,Marin,Fairfax,8,28
+94960,CA,Marin,San Anselmo,8,28
+94547,CA,Contra Costa,Hercules,8,29
+94930,CA,Marin,Fairfax,8,29
+94903,CA,Marin,San Rafael,8,30
+94549,CA,Contra Costa,Lafayette,8,30
+94924,CA,Marin,Bolinas,8,30
+94065,CA,San Mateo,Redwood City,8,30
+94545,CA,Alameda,Hayward,8,31
+94018,CA,San Mateo,El Granada,8,31
+94002,CA,San Mateo,Belmont,8,31
+94541,CA,Alameda,Hayward,8,31
+94540,CA,Alameda,Hayward,8,32
+94543,CA,Alameda,Hayward,8,32
+94557,CA,Alameda,Hayward,8,32
+94553,CA,Contra Costa,Martinez,8,32
+94595,CA,Contra Costa,Walnut Creek,8,32
+94973,CA,Marin,Woodacre,8,32
+94572,CA,Contra Costa,Rodeo,8,32
+94019,CA,San Mateo,Half Moon Bay,8,34
+94070,CA,San Mateo,San Carlos,8,34
+94597,CA,Contra Costa,Walnut Creek,8,34
+94525,CA,Contra Costa,Crockett,8,34
+94963,CA,Marin,San Geronimo,8,34
+94949,CA,Marin,Novato,8,35
+94063,CA,San Mateo,Redwood City,8,35
+94523,CA,Contra Costa,Pleasant Hill,8,35
+94544,CA,Alameda,Hayward,8,36
+94596,CA,Contra Costa,Walnut Creek,8,36
+94933,CA,Marin,Forest Knolls,8,36
+94064,CA,San Mateo,Redwood City,8,36
+94569,CA,Contra Costa,Port Costa,8,36
+94542,CA,Alameda,Hayward,8,36
+94583,CA,Contra Costa,San Ramon,8,36
+94938,CA,Marin,Lagunitas,8,37
+94526,CA,Contra Costa,Danville,8,37
+94587,CA,Alameda,Union City,8,38
+94592,CA,Solano,Vallejo,8,38
+94061,CA,San Mateo,Redwood City,8,38
+94590,CA,Solano,Vallejo,8,38
+94507,CA,Contra Costa,Alamo,8,38
+94555,CA,Alameda,Fremont,8,39
+94946,CA,Marin,Nicasio,8,39
+94552,CA,Alameda,Castro Valley,8,39
+94998,CA,Marin,Novato,8,39
+94948,CA,Marin,Novato,8,39
+94598,CA,Contra Costa,Walnut Creek,8,39
+94518,CA,Contra Costa,Concord,8,40
+94528,CA,Contra Costa,Diablo,8,40
+94522,CA,Contra Costa,Concord,8,40
+94524,CA,Contra Costa,Concord,8,40
+94527,CA,Contra Costa,Concord,8,40
+94529,CA,Contra Costa,Concord,8,40
+94025,CA,San Mateo,Menlo Park,8,40
+94027,CA,San Mateo,Atherton,8,41
+94026,CA,San Mateo,Menlo Park,8,41
+94945,CA,Marin,Novato,8,41
+94520,CA,Contra Costa,Concord,8,42
+94062,CA,San Mateo,Redwood City,8,42
+94591,CA,Solano,Vallejo,8,42
+94947,CA,Marin,Novato,8,42
+94956,CA,Marin,Point Reyes Station,8,42
+94560,CA,Alameda,Newark,8,43
+94589,CA,Solano,Vallejo,8,43
+94519,CA,Contra Costa,Concord,8,43
+94950,CA,Marin,Olema,8,43
+94510,CA,Solano,Benicia,8,44
+94301,CA,Santa Clara,Palo Alto,8,44
+94303,CA,Santa Clara,Palo Alto,8,44
+94582,CA,Contra Costa,San Ramon,8,44
+94302,CA,Santa Clara,Palo Alto,8,44
+94309,CA,Santa Clara,Palo Alto,8,44
+94506,CA,Contra Costa,Danville,8,44
+94536,CA,Alameda,Fremont,8,44
+94568,CA,Alameda,Dublin,8,44
+94305,CA,Santa Clara,Stanford,8,45
+94537,CA,Alameda,Fremont,8,45
+94521,CA,Contra Costa,Concord,8,46
+94588,CA,Alameda,Pleasanton,8,46
+94304,CA,Santa Clara,Palo Alto,8,47
+94306,CA,Santa Clara,Palo Alto,8,48
+94538,CA,Alameda,Fremont,8,48
+94028,CA,San Mateo,Portola Valley,8,48
+94517,CA,Contra Costa,Clayton,8,49
+94043,CA,Santa Clara,Mountain View,8,50
+94565,CA,Contra Costa,Pittsburg,8,50
+94503,CA,Napa,American Canyon,8,50
+94023,CA,Santa Clara,Los Altos,8,51
+94035,CA,Santa Clara,Mountain View,8,51
+94022,CA,Santa Clara,Los Altos,8,51
+94954,CA,Sonoma,Petaluma,8,51
+94566,CA,Alameda,Pleasanton,8,52
+94040,CA,Santa Clara,Mountain View,8,52
+94539,CA,Alameda,Fremont,8,52
+94586,CA,Alameda,Sunol,8,52
+94039,CA,Santa Clara,Mountain View,8,52
+94042,CA,Santa Clara,Mountain View,8,52
+94089,CA,Santa Clara,Sunnyvale,8,52
+94041,CA,Santa Clara,Mountain View,8,52
+95476,CA,Sonoma,Sonoma,8,52
+95002,CA,Santa Clara,Alviso,8,53
+94559,CA,Napa,Napa,8,53
+94074,CA,San Mateo,San Gregorio,8,54
+94024,CA,Santa Clara,Los Altos,8,54
+94999,CA,Sonoma,Petaluma,8,54
+94953,CA,Sonoma,Petaluma,8,54
+94975,CA,Sonoma,Petaluma,8,55
+94955,CA,Sonoma,Petaluma,8,55
+95487,CA,Sonoma,Vineburg,8,55
+94085,CA,Santa Clara,Sunnyvale,8,55
+94020,CA,San Mateo,La Honda,8,55
+94534,CA,Solano,Fairfield,8,56
+94088,CA,Santa Clara,Sunnyvale,8,56
+94086,CA,Santa Clara,Sunnyvale,8,57
+95134,CA,Santa Clara,San Jose,8,57
+94551,CA,Alameda,Livermore,8,57
+94087,CA,Santa Clara,Sunnyvale,8,58
+95054,CA,Santa Clara,Santa Clara,8,58
+94509,CA,Contra Costa,Antioch,8,58
+94937,CA,Marin,Inverness,8,58
+95433,CA,Sonoma,El Verano,8,59
+94531,CA,Contra Costa,Antioch,8,59
+94952,CA,Sonoma,Petaluma,8,59
+94585,CA,Solano,Suisun City,8,59
+95036,CA,Santa Clara,Milpitas,8,59
+94581,CA,Napa,Napa,8,59
+94021,CA,San Mateo,Loma Mar,8,60
+95014,CA,Santa Clara,Cupertino,8,60
+95051,CA,Santa Clara,Santa Clara,8,60
+95015,CA,Santa Clara,Cupertino,8,61
+95416,CA,Sonoma,Boyes Hot Springs,8,61
+94513,CA,Contra Costa,Brentwood,8,61
+95052,CA,Santa Clara,Santa Clara,8,62
+95055,CA,Santa Clara,Santa Clara,8,62
+95056,CA,Santa Clara,Santa Clara,8,62
+95050,CA,Santa Clara,Santa Clara,8,62
+95131,CA,Santa Clara,San Jose,8,62
+94940,CA,Marin,Marshall,8,63
+95053,CA,Santa Clara,Santa Clara,8,63
+95129,CA,Santa Clara,San Jose,8,63
+94951,CA,Sonoma,Penngrove,8,64
+94512,CA,Solano,Birds Landing,8,64
+95431,CA,Sonoma,Eldridge,8,64
