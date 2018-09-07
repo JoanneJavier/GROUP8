@@ -1,0 +1,4 @@
+zipcodes.csv
+source: https://www.freemaptools.com/find-zip-codes-inside-radius.htm
+description: each zipcode (excluding PO boxes) within the 40 mile radius (aerial distance, not driving distance) of zipcode 94103 (SF financial district)
+headers: zipcode, state, county, city, timezone, distance (from zipcode 94103)
